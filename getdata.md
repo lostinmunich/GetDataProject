@@ -1,14 +1,15 @@
 #Codebook
 
-This data analysis processes data from ¡°Human Activity Recognition Using Smartphones Dataset¡± experiment carried out by Smartlab - Non Linear Complex Systems Laboratory, 
+This data analysis processes data from Â¡Â°Human Activity Recognition Using Smartphones DatasetÂ¡Â± experiment carried out by Smartlab - Non Linear Complex Systems Laboratory, 
 DITEN - Universit?degli Studi di Genova.
 
 In the experiment, 30 subjects are required to carry out six actions: walking, walking upstairs, walking downstairs, sitting, standing and laying. Signals are collected from accelerometers and gyroscope, and are measured by time and by fast fourier transformation.
 
 Raw Data:
-Test data and training data of X, y and subject
-Feature names
-Action names
+1.Test data and training data of X, y and subject
+2.Feature names
+3.Action names
+All features are normalized and bounded within [-1,1]
 
 Codebook: 
 1.Test data and training data of X, y and subject are combined in one dataset before further analysis. 
