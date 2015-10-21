@@ -1,9 +1,4 @@
----
-title: "Codebook"
-author: "luo meiyu"
-date: "2015Äê10ÔÂ21ÈÕ"
-output: html_document
----
+#Codebook
 
 This data analysis processes data from ¡°Human Activity Recognition Using Smartphones Dataset¡± experiment carried out by Smartlab - Non Linear Complex Systems Laboratory, 
 DITEN - Universit?degli Studi di Genova.
